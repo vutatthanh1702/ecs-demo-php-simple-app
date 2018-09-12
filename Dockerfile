@@ -1,5 +1,4 @@
-FROM ubuntu:16.04 as opencv-builder
-MAINTAINER "thanh"
+FROM ubuntu:12.04
 # Install dependencies
 RUN apt-get update -y
 RUN apt-get install -y git curl apache2 php libapache2-mod-php php-mcrypt php-mysql

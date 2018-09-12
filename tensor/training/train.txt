@@ -1,0 +1,6 @@
+/Users/co-well-752410/Desktop/tensor/images/1.jpeg 0
+/Users/co-well-752410/Desktop/tensor/images/2.jpeg 0
+/Users/co-well-752410/Desktop/tensor/images/3.jpeg 0
+/Users/co-well-752410/Desktop/tensor/images/1a.jpeg 1
+/Users/co-well-752410/Desktop/tensor/images/2a.jpeg 1
+/Users/co-well-752410/Desktop/tensor/images/3a.jpeg 1
