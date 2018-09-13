@@ -53,6 +53,5 @@ def getImage(search_item, img_list):
    continue
 
 if __name__ == "__main__":
- img_list = getImageUrl("神木隆之介", NUM_IMAGE)
- print(img_list)
- getImage("Kamiki", img_list)
+ img_list = getImageUrl("ブス男", NUM_IMAGE)
+ getImage("busu", img_list)

@@ -1,0 +1,17 @@
+status: 301
+server: nginx
+date: Thu, 13 Sep 2018 09:02:47 GMT
+content-type: text/html; charset=iso-8859-1
+content-length: 287
+connection: keep-alive
+location: https://xn--t8j0ayjlb8159avq6e.xyz/wp-content/uploads/2016/10/Collage_Fotor.jpg
+-x-permanent-redirect-url: https://xn--t8j0ayjlb8159avq6e.xyz/wp-content/uploads/2016/10/Collage_Fotor.jpg
+content-location: http://xn--t8j0ayjlb8159avq6e.xyz/wp-content/uploads/2016/10/Collage_Fotor.jpg
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://xn--t8j0ayjlb8159avq6e.xyz/wp-content/uploads/2016/10/Collage_Fotor.jpg">here</a>.</p>
+</body></html>
