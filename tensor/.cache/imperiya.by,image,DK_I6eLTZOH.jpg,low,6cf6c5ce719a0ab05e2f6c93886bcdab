@@ -1,0 +1,19 @@
+status: 301
+server: nginx
+date: Thu, 13 Sep 2018 11:56:44 GMT
+content-type: text/html
+content-length: 178
+connection: keep-alive
+location: https://imperiya.by/image/DK_I6eLTZOH.jpg?low
+expires: Thu, 20 Sep 2018 11:56:44 GMT
+cache-control: max-age=604800
+-x-permanent-redirect-url: https://imperiya.by/image/DK_I6eLTZOH.jpg?low
+content-location: http://imperiya.by/image/DK_I6eLTZOH.jpg?low
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -11,13 +11,13 @@ import configparser
 
 # 外部のコンフィグを読み込む
 inifile = configparser.ConfigParser()
-inifile.read('config.ini')
+inifile.read('config1.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
 #print(names)
-NUM_CLASSES = 3
+NUM_CLASSES = 4
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 

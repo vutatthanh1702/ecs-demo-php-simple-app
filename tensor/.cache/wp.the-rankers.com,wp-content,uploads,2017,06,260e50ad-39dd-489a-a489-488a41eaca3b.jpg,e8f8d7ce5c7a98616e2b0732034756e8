@@ -1,0 +1,13 @@
+status: 301
+date: Thu, 13 Sep 2018 11:56:28 GMT
+connection: keep-alive
+cache-control: max-age=3600
+expires: Thu, 13 Sep 2018 12:56:28 GMT
+location: https://wp.the-rankers.com/wp-content/uploads/2017/06/260e50ad-39dd-489a-a489-488a41eaca3b.jpg
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 459a6e44b59b9451-NRT
+-x-permanent-redirect-url: https://wp.the-rankers.com/wp-content/uploads/2017/06/260e50ad-39dd-489a-a489-488a41eaca3b.jpg
+content-location: http://wp.the-rankers.com/wp-content/uploads/2017/06/260e50ad-39dd-489a-a489-488a41eaca3b.jpg
+-varied-accept-encoding: gzip, deflate
+

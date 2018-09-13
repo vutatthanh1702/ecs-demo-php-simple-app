@@ -5,7 +5,7 @@ import cv2
 import tensorflow.python.platform
 from types import *
 
-NUM_CLASSES = 3
+NUM_CLASSES = 4
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
