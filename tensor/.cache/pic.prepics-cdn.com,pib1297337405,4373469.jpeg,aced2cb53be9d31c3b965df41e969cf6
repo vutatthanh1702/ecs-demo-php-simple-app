@@ -1,0 +1,23 @@
+status: 301
+content-type: text/html
+content-length: 178
+connection: keep-alive
+date: Sat, 25 Aug 2018 14:26:45 GMT
+server: nginx
+location: https://pics.prcm.jp/pib1297337405/4373469/jpeg/4373469.jpeg
+expires: Tue, 04 Sep 2018 14:26:45 GMT
+cache-control: max-age=864000
+age: 1610162
+x-cache: Hit from cloudfront
+via: 1.1 c115cefe98f20d7920375a413a5ae910.cloudfront.net (CloudFront)
+x-amz-cf-id: Dbks-8z6jj8rGtsM35lWAONaoFh-6uCj08IDyNwuwVlysqK9Ee1qeA==
+-x-permanent-redirect-url: https://pics.prcm.jp/pib1297337405/4373469/jpeg/4373469.jpeg
+content-location: http://pic.prepics-cdn.com/pib1297337405/4373469.jpeg
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

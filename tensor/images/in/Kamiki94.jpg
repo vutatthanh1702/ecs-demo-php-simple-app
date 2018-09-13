@@ -1,0 +1,660 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5599075-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-5599075-1');
+  </script>
+  <!-- /Global site tag (gtag.js) - Google Analytics -->
+  
+  
+<meta charset="utf-8">
+<!-- Google Search Console -->
+<meta name="google-site-verification" content="eQpQ4ZGS45szJ6lb62ZpP978ZLvJ2GndEgLgUYc6Ee0" />
+<!-- /Google Search Console -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH3NRXN');</script>
+<!-- End Google Tag Manager -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+
+<title>404 NOT FOUND  |  yanajun</title>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="yanajun &raquo; フィード" href="https://yanajun.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="yanajun &raquo; コメントフィード" href="https://yanajun.com/comments/feed" />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='https://yanajun.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.9.8&#038;fver=20170201083217' media='all' />
+<link rel='stylesheet' id='cocoon-style-css'  href='https://yanajun.com/wp-content/themes/cocoon-master/style.css?ver=4.9.8&#038;fver=20180907104016' media='all' />
+<style id='cocoon-style-inline-css'>
+@media screen and (max-width:480px){.page-body{font-size:16px}}body.public-page{background-color:#fafbfc}#navi .navi-in a,#navi .navi-in a:hover{color:#0048e5}#navi .navi-in>ul>li{width:100px}#navi .navi-in>ul .sub-menu{min-width:210px}#navi .navi-in>ul .sub-menu ul{left:210px}.main{width:860px}.sidebar{width:350px}.wrap{width:1232px}@media screen and (max-width:1236px){ .wrap{width:auto}.main,.sidebar,.sidebar-left .main,.sidebar-left .sidebar{margin:0 .5%}.main{width:67%}.sidebar{padding:0 10px;width:30%}.entry-card-thumb{width:38%}.entry-card-content{margin-left:40%}}.toc-content,#toc-checkbox{display:none}#toc-checkbox:checked~.toc-content{display:block}.toc-title::after{content:'[開く]';margin-left:.5em;cursor:pointer;font-size:.8em}.toc-title:hover::after{text-decoration:underline}#toc-checkbox:checked+.toc-title::after{content:'[閉じる]'}#navi .navi-in>ul>li{width:auto}#navi .navi-in>ul>li>a{padding:0 1.4em}
+</style>
+<link rel='stylesheet' id='font-awesome-style-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.8' media='all' />
+<link rel='stylesheet' id='icomoon-style-css'  href='https://yanajun.com/wp-content/themes/cocoon-master/webfonts/icomoon/style.css?ver=4.9.8&#038;fver=20180907104016' media='all' />
+<link rel='stylesheet' id='slick-theme-style-css'  href='https://yanajun.com/wp-content/themes/cocoon-master/plugins/slick/slick-theme.css?ver=4.9.8&#038;fver=20180907104016' media='all' />
+<link rel='stylesheet' id='cocoon-child-style-css'  href='https://yanajun.com/wp-content/themes/cocoon-child-master/style.css?ver=4.9.8&#038;fver=20180519032538' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://yanajun.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.1.2&#038;fver=20180810114135' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='https://yanajun.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.2.1&#038;fver=20180728042143' media='all' />
+<script src='https://yanajun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4&#038;fver=20160621064709'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js?ver=1.4.1'></script>
+<script src='//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js?ver=4.9.8'></script>
+<script src='https://yanajun.com/wp-content/plugins/image-archives/image_archives_jquery.js?ver=4.9.8&#038;fver=20131025063815'></script>
+<script>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/yanajun.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","action":"update_views_ajax","ID":"","token":"f5b03ec796","debug":""};
+/* ]]> */
+</script>
+<script src='https://yanajun.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.1.0.min.js?ver=4.1.2&#038;fver=20180810114135'></script>
+<!-- Cocoon noindex nofollow -->
+<meta name="robots" content="noindex,follow">
+<!-- Cocoon next -->
+<link rel="next" href="https://yanajun.com/wp-content/uploads/takeru10.jpg/page/2" />
+<!-- Cocoon canonical -->
+<link rel="canonical" href="https://yanajun.com/404/">
+<!-- OGP -->
+<meta property="og:type" content="website">
+<meta property="og:description" content="">
+<meta property="og:title" content="yanajun">
+<meta property="og:url" content="https://yanajun.com">
+<meta property="og:image" content="https://yanajun.com/wp-content/uploads/yanajun-l.jpg">
+<meta property="og:site_name" content="yanajun">
+<meta property="og:locale" content="ja_JP">
+<meta property="article:published_time" content="2018-09-13T14:40:18+00:00" />
+<meta property="article:modified_time" content="2018-09-13T14:40:18+00:00" />
+<meta property="article:section" content="TVドラマ">
+<meta property="article:tag" content="佐藤健">
+<meta property="article:tag" content="義母と娘のブルース">
+<!-- /OGP -->
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="">
+<meta name="twitter:title" content="yanajun">
+<meta name="twitter:url" content="https://yanajun.com">
+<meta name="twitter:image" content="https://yanajun.com/wp-content/uploads/yanajun-l.jpg">
+<meta name="twitter:domain" content="yanajun.com">
+<!-- /Twitter Card -->
+<link rel="icon" href="https://yanajun.com/wp-content/uploads/cropped-favicon-3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://yanajun.com/wp-content/uploads/cropped-favicon-3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://yanajun.com/wp-content/uploads/cropped-favicon-3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://yanajun.com/wp-content/uploads/cropped-favicon-3-270x270.png" />
+
+
+
+</head>
+
+<body class="error404 public-page page-body ff-yu-gothic fz-18px fw-400 hlt-center-logo-wrap ect-entry-card-wrap rect-entry-card-wrap no-scrollable-sidebar no-scrollable-main sidebar-right mblt-slide-in author-guest mobile-button-slide-in no-mobile-sidebar" itemscope itemtype="https://schema.org/WebPage">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH3NRXN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<div id="container" class="container cf">
+  <div id="header-container" class="header-container">
+  <div class="header-container-in hlt-center-logo cl-slim">
+    <header id="header" class="header cf" itemscope itemtype="https://schema.org/WPHeader">
+
+      <div id="header-in" class="header-in wrap cf" itemscope itemtype="https://schema.org/WebSite">
+
+        <div class="tagline" itemprop="alternativeHeadline">絵を生業とするyanajunのブログ兼ホームページ</div>
+
+        <h1 class="logo logo-header logo-text"><a href="https://yanajun.com" class="site-name site-name-text-link" itemprop="url"><span class="site-name-text" itemprop="name about">yanajun</span></a></h1>
+        
+      </div>
+
+    </header>
+
+    <!-- Navigation -->
+<nav id="navi" class="navi cf" itemscope itemtype="https://schema.org/SiteNavigationElement">
+  <div id="navi-in" class="navi-in wrap cf">
+    <ul id="menu-menu-1" class="menu-header"><li id="menu-item-17744" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://yanajun.com/category/tv"><div class="caption-wrap"><div class="item-label">TVドラマ</div></div></a></li>
+<li id="menu-item-17743" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://yanajun.com/category/movie"><div class="caption-wrap"><div class="item-label">映画</div></div></a></li>
+<li id="menu-item-17742" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://yanajun.com/category/zakki"><div class="caption-wrap"><div class="item-label">雑記</div></div></a></li>
+<li id="menu-item-17741" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://yanajun.com/category/works"><div class="caption-wrap"><div class="item-label">仕事関連</div></div></a></li>
+<li id="menu-item-17724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://yanajun.com/celebrity"><div class="caption-wrap"><div class="item-label">似顔絵</div></div></a>
+<ul class="sub-menu">
+	<li id="menu-item-17725" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/ai"><div class="caption-wrap"><div class="item-label">あ行（あ、い）</div></div></a></li>
+	<li id="menu-item-17726" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/ueo"><div class="caption-wrap"><div class="item-label">あ行（う、え、お）</div></div></a></li>
+	<li id="menu-item-17727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/kaki"><div class="caption-wrap"><div class="item-label">か行（か、き）</div></div></a></li>
+	<li id="menu-item-17728" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/kukeko"><div class="caption-wrap"><div class="item-label">か行（く、け、こ）</div></div></a></li>
+	<li id="menu-item-17729" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/sashisuseso"><div class="caption-wrap"><div class="item-label">さ行</div></div></a></li>
+	<li id="menu-item-17730" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/ta"><div class="caption-wrap"><div class="item-label">た行（た）</div></div></a></li>
+	<li id="menu-item-17731" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/chitsuteto"><div class="caption-wrap"><div class="item-label">た行（ち、つ、て、と）</div></div></a></li>
+	<li id="menu-item-17732" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/naninuneno"><div class="caption-wrap"><div class="item-label">な行</div></div></a></li>
+	<li id="menu-item-17733" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/hahifuheho"><div class="caption-wrap"><div class="item-label">は行</div></div></a></li>
+	<li id="menu-item-17734" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/mamimumemo"><div class="caption-wrap"><div class="item-label">ま行</div></div></a></li>
+	<li id="menu-item-17735" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/yayuyo"><div class="caption-wrap"><div class="item-label">や行</div></div></a></li>
+	<li id="menu-item-17736" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/celebrity/rarirurerowa"><div class="caption-wrap"><div class="item-label">ら行・わ行</div></div></a></li>
+</ul>
+</li>
+<li id="menu-item-17721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://yanajun.com/iroiro"><div class="caption-wrap"><div class="item-label">色々な絵</div></div></a>
+<ul class="sub-menu">
+	<li id="menu-item-17722" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/iroiro/iroiro1"><div class="caption-wrap"><div class="item-label">色々な絵1</div></div></a></li>
+	<li id="menu-item-17723" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/iroiro/iroiro2"><div class="caption-wrap"><div class="item-label">色々な絵2</div></div></a></li>
+</ul>
+</li>
+<li id="menu-item-17738" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/manga"><div class="caption-wrap"><div class="item-label">マンガ</div></div></a></li>
+<li id="menu-item-17720" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://yanajun.com/about"><div class="caption-wrap"><div class="item-label">About</div></div></a></li>
+</ul>      </div><!-- /#navi-in -->
+</nav>
+<!-- /Navigation -->  </div><!-- /.header-container-in -->
+</div><!-- /.header-container -->
+  
+  
+  
+  
+  
+  
+  <div id="content" class="content cf">
+
+    <div id="content-in" class="content-in wrap cf">
+
+        <main id="main" class="main" itemscope itemtype="https://schema.org/Blog">
+<article class="post article">
+  <!--ループ開始-->
+  <h1 class="entry-title">404 NOT FOUND</h1>
+      <img class="not-found" src="https://yanajun.com/wp-content/themes/cocoon-master/images/404.png" alt="404 Not Found" />
+  
+  <p>お探しのページは見つかりませんでした。</p>
+
+  
+</article>
+<!-- END div.post -->
+          </main>
+
+        <div id="sidebar" class="sidebar nwa cf" role="complementary">
+
+  
+	<aside id="search-2" class="widget widget-sidebar widget-sidebar-standard widget_search"><form class="search-box" method="get" action="https://yanajun.com/">
+  <input type="text" placeholder="サイト内を検索" name="s" class="search-edit">
+  <button type="submit" class="search-submit"></button>
+</form></aside><aside id="recent-posts-widget-with-thumbnails-2" class="widget widget-sidebar widget-sidebar-standard recent-posts-widget-with-thumbnails"><div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+	<h3 class="widget-sidebar-title widget-title">最近の記事画像</h3>	<ul>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-sato.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/satohtakeru13-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="satohtakeru13" srcset="https://yanajun.com/wp-content/uploads/satohtakeru13-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/satohtakeru13-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/satohtakeru13-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/satohtakeru13.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-itoatsushi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/itoatsushi09-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="itoatsushi09" srcset="https://yanajun.com/wp-content/uploads/itoatsushi09-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/itoatsushi09-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/itoatsushi09-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/itoatsushi09.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/3dkanojo-nakajo.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nakajoayami-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nakajoayami" srcset="https://yanajun.com/wp-content/uploads/nakajoayami-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nakajoayami-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/nakajoayami-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/nakajoayami.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/p-battle.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/p-yanajun-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yanajun" srcset="https://yanajun.com/wp-content/uploads/p-yanajun-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/p-yanajun-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/p-yanajun-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/p-yanajun-320x320.jpg 320w, https://yanajun.com/wp-content/uploads/p-yanajun-414x414.jpg 414w, https://yanajun.com/wp-content/uploads/p-yanajun.jpg 512w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/antman_wasp-evangelinelilly.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/evangelinelilly-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="evangelinelilly" srcset="https://yanajun.com/wp-content/uploads/evangelinelilly-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/evangelinelilly-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/evangelinelilly-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/evangelinelilly.jpg 385w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gintama2-yagira.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/yagira02-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yagira02" srcset="https://yanajun.com/wp-content/uploads/yagira02-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/yagira02-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-takenouchi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takenouchi06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takenouchi06" srcset="https://yanajun.com/wp-content/uploads/takenouchi06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takenouchi06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/takenouchi06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/takenouchi06.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-hirata.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hiratamitsuru-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hiratamitsuru" srcset="https://yanajun.com/wp-content/uploads/hiratamitsuru-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hiratamitsuru-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hiratamitsuru-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hiratamitsuru.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/delelife-suda.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/sudamasaki03-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="sudamasaki03" srcset="https://yanajun.com/wp-content/uploads/sudamasaki03-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/sudamasaki03-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/sudamasaki03-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/sudamasaki03.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/bleach-movie-fukushi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/fukushisota04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="fukushisota04" srcset="https://yanajun.com/wp-content/uploads/fukushisota04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/fukushisota04-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/tanteigahayasugiru-takitoh.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takitoh03-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takitoh03" srcset="https://yanajun.com/wp-content/uploads/takitoh03-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takitoh03-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/jurassicworld-brycedhoward.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/brycedhoward-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="brycedhoward" srcset="https://yanajun.com/wp-content/uploads/brycedhoward-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/brycedhoward-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/brycedhoward-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/brycedhoward.jpg 400w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gooddoctor-yamazaki.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/yamazakikento04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yamazakikento04" srcset="https://yanajun.com/wp-content/uploads/yamazakikento04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/yamazakikento04-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/yamazakikento04-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/yamazakikento04.jpg 390w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-ayase.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/ayase16-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="ayase16" srcset="https://yanajun.com/wp-content/uploads/ayase16-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/ayase16-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/ayase16-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/ayase16.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-sawamura.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/sawamura06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="sawamura06" srcset="https://yanajun.com/wp-content/uploads/sawamura06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/sawamura06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/sawamura06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/sawamura06.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/starwars-hansolo-aldenehrenreich.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/aldenehrenreich-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="aldenehrenreich" srcset="https://yanajun.com/wp-content/uploads/aldenehrenreich-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/aldenehrenreich-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/aldenehrenreich-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/aldenehrenreich.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/fifa2018-hasebe.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hasebe02-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hasebe02" srcset="https://yanajun.com/wp-content/uploads/hasebe02-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hasebe02-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hasebe02-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hasebe02.jpg 415w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/hanahare-hirano.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hiranosho-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hiranosho" srcset="https://yanajun.com/wp-content/uploads/hiranosho-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hiranosho-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hiranosho-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hiranosho.jpg 365w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/blackpean-uchino.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/uchino08-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="uchino08" srcset="https://yanajun.com/wp-content/uploads/uchino08-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/uchino08-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/uchino08-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/uchino08.jpg 355w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/blackpean-takeuchi_koizumi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takeuchiryoma04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takeuchiryoma04" srcset="https://yanajun.com/wp-content/uploads/takeuchiryoma04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takeuchiryoma04-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/takeuchiryoma04-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/takeuchiryoma04.jpg 355w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/soratobu-movie-nagase.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nagase08-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nagase08" srcset="https://yanajun.com/wp-content/uploads/nagase08-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nagase08-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/signal-kitamura.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/kitamura06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="kitamura06" srcset="https://yanajun.com/wp-content/uploads/kitamura06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/kitamura06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/kitamura06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/kitamura06.jpg 365w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/confidenceman_jp-nagasawa.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nagasawa10-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nagasawa10" srcset="https://yanajun.com/wp-content/uploads/nagasawa10-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nagasawa10-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/rainy-season-2018.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/iroiro2-man09-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="man09" srcset="https://yanajun.com/wp-content/uploads/iroiro2-man09-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/iroiro2-man09-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+		</ul>
+</div><!-- .rpwwt-widget -->
+</aside><aside id="text-4" class="widget widget-sidebar widget-sidebar-standard widget_text">			<div class="textwidget"><div class="wgs"><img class="alignnone" src="https://yanajun.com/wp-content/uploads/maki_s.gif" alt="maki_s.gif" width="187" height="187" /></div>
+<p><span style="color: #ff0000;">当サイト内のイラスト画像を許可なく使用・複製・転載することを禁じます。</span><br />
+&gt;&gt;<a href="https://yanajun.com/warning">詳細ページ</a></p>
+<p>お仕事のご依頼・ご相談などは、Eメールでお問い合わせください。<br />
+&gt;&gt;メールアドレス<img src="https://yanajun.com/wp-content/uploads/mail1.png" alt="mail" width="179" height="21" /></p>
+<p>迷惑メールフィルターによりこちらからの返信メールが届かない場合があります。上記アドレスからのメール受信ができるよう設定をお願いいたします。</p>
+<p>お値段はイラスト等の種類やサイズによって異なります。ご相談時にご依頼の内容を具体的に提示して下さい。<br />
+&gt;&gt;<a href="https://yanajun.com/article/110528191.html">絵の制作の料金例</a></p>
+</div>
+		</aside><aside id="text-6" class="widget widget-sidebar widget-sidebar-standard widget_text"><h3 class="widget-sidebar-title widget-title">商品検索</h3>			<div class="textwidget"><div class="wgs"><a style="word-wrap: break-word;" href="https://hb.afl.rakuten.co.jp/hsc/0b803246.6c277d1b.15f1b6d1.17927c3a/?link_type=pict&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIxIiwiYmFuIjoiNDM0OTM3In0%3D" target="_blank" rel="nofollow noopener"><img style="margin: 2px;" title="" src="https://hbb.afl.rakuten.co.jp/hsb/0b803246.6c277d1b.15f1b6d1.17927c3a/?me_id=1&amp;me_adv_id=434937&amp;t=pict" alt="" width="234" height="60" /></a></div>
+</div>
+		</aside>
+  
+  
+</div>
+
+      </div>
+
+    </div>
+
+    
+    
+    <footer id="footer" class="footer footer-container nwa" itemscope itemtype="https://schema.org/WPFooter">
+
+      <div id="footer-in" class="footer-in wrap cf">
+
+                  <div class="footer-widgets cf">
+             <div class="footer-left">
+             <aside id="linkcat-2" class="widget widget-footer-left widget_links"><h3 class="widget-footer-left-title footer-title">リンク（ランダム表示）</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ikasama4.at.webry.info/" target="_blank">渡る世間は愚痴ばかり</a></li>
+<li><a href="https://clubt.jp/shop/S0000034983.html" target="_blank">ClubT : yanajun</a></li>
+<li><a href="http://blog.livedoor.jp/minomarumishi/" target="_blank">みのまるむしの落書きノート</a></li>
+<li><a href="http://rulamoon-grass.at.webry.info/" target="_blank">メガネ男子は別腹☆</a></li>
+<li><a href="http://mika-1983-2-19-lotus.seesaa.net/" target="_blank">～Lotus～</a></li>
+<li><a href="http://guutaranikki.blog4.fc2.com/" target="_blank">ぐ～たらにっき</a></li>
+<li><a href="http://blog.goo.ne.jp/ark-performance" target="_blank">Ark-Performanceて、最近どうなのよ？</a></li>
+<li><a href="http://www7b.biglobe.ne.jp/~kagetugu/" target="_blank">Kagetugu Site</a></li>
+<li><a href="http://alicydoll.blog.fc2.com/" target="_blank">雪愛のお絵かき研究手帳</a></li>
+<li><a href="http://d.hatena.ne.jp/koikesan/" target="_blank">藤子不二雄ファンはここにいる</a></li>
+
+	</ul>
+</aside>
+             </div>
+             <div class="footer-center">
+             <aside id="linkcat-1179" class="widget widget-footer-center widget_links"><h3 class="widget-footer-center-title footer-title">クリエイター検索</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.kurikore.com/rank.cgi?mode=r_link&#038;id=3494" target="_blank">Creator Collection</a></li>
+<li><a href="https://www.irakore.com/rank.cgi?mode=r_link&#038;id=80" target="_blank">Illustrator Collection</a></li>
+<li><a href="http://eblog.jpn.org/search/" target="_blank">絵ブログ検索エンジン</a></li>
+<li><a href="http://oekaki.jpn.org/search/" target="_blank">お絵さーち！</a></li>
+<li><a href="http://oekaki.jp/in.php?s=9989" target="_blank">お絵描きJP</a></li>
+<li><a href="http://www.comic-r.net/ys4/rank.cgi?mode=r_link&#038;id=3735" target="_blank">コミックルーム</a></li>
+
+	</ul>
+</aside>
+             </div>
+             <div class="footer-right">
+             <aside id="calendar-2" class="widget widget-footer-right widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>2018年9月</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="日曜日">日</th>
+		<th scope="col" title="月曜日">月</th>
+		<th scope="col" title="火曜日">火</th>
+		<th scope="col" title="水曜日">水</th>
+		<th scope="col" title="木曜日">木</th>
+		<th scope="col" title="金曜日">金</th>
+		<th scope="col" title="土曜日">土</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://yanajun.com/article/2018/08">&laquo; 8月</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td><a href="https://yanajun.com/article/2018/09/01" aria-label="2018年9月1日 に投稿を公開">1</a></td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td><a href="https://yanajun.com/article/2018/09/07" aria-label="2018年9月7日 に投稿を公開">7</a></td><td>8</td>
+	</tr>
+	<tr>
+		<td><a href="https://yanajun.com/article/2018/09/09" aria-label="2018年9月9日 に投稿を公開">9</a></td><td>10</td><td>11</td><td><a href="https://yanajun.com/article/2018/09/12" aria-label="2018年9月12日 に投稿を公開">12</a></td><td id="today"><a href="https://yanajun.com/article/2018/09/13" aria-label="2018年9月13日 に投稿を公開">13</a></td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside><aside id="archives-2" class="widget widget-footer-right widget_archive"><h3 class="widget-footer-right-title footer-title">アーカイブ</h3>		<label class="screen-reader-text" for="archives-dropdown-2">アーカイブ</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">月を選択</option>
+				<option value='https://yanajun.com/article/2018/09'> 2018年9月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2018/08'> 2018年8月 &nbsp;(4)</option>
+	<option value='https://yanajun.com/article/2018/07'> 2018年7月 &nbsp;(7)</option>
+	<option value='https://yanajun.com/article/2018/06'> 2018年6月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2018/05'> 2018年5月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2018/04'> 2018年4月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2018/03'> 2018年3月 &nbsp;(7)</option>
+	<option value='https://yanajun.com/article/2018/02'> 2018年2月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2018/01'> 2018年1月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2017/12'> 2017年12月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2017/11'> 2017年11月 &nbsp;(6)</option>
+	<option value='https://yanajun.com/article/2017/10'> 2017年10月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2017/09'> 2017年9月 &nbsp;(6)</option>
+	<option value='https://yanajun.com/article/2017/08'> 2017年8月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2017/07'> 2017年7月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2017/06'> 2017年6月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2017/05'> 2017年5月 &nbsp;(3)</option>
+	<option value='https://yanajun.com/article/2017/04'> 2017年4月 &nbsp;(7)</option>
+	<option value='https://yanajun.com/article/2017/03'> 2017年3月 &nbsp;(6)</option>
+	<option value='https://yanajun.com/article/2017/02'> 2017年2月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2017/01'> 2017年1月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2016/12'> 2016年12月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2016/11'> 2016年11月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2016/10'> 2016年10月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2016/09'> 2016年9月 &nbsp;(12)</option>
+	<option value='https://yanajun.com/article/2016/08'> 2016年8月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2016/07'> 2016年7月 &nbsp;(12)</option>
+	<option value='https://yanajun.com/article/2016/06'> 2016年6月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2016/05'> 2016年5月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2016/04'> 2016年4月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2016/03'> 2016年3月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2016/02'> 2016年2月 &nbsp;(7)</option>
+	<option value='https://yanajun.com/article/2016/01'> 2016年1月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2015/12'> 2015年12月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2015/11'> 2015年11月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2015/10'> 2015年10月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2015/09'> 2015年9月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2015/08'> 2015年8月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2015/07'> 2015年7月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2015/06'> 2015年6月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2015/05'> 2015年5月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2015/04'> 2015年4月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2015/03'> 2015年3月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2015/02'> 2015年2月 &nbsp;(3)</option>
+	<option value='https://yanajun.com/article/2015/01'> 2015年1月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2014/12'> 2014年12月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2014/11'> 2014年11月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2014/10'> 2014年10月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2014/09'> 2014年9月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2014/08'> 2014年8月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2014/07'> 2014年7月 &nbsp;(12)</option>
+	<option value='https://yanajun.com/article/2014/06'> 2014年6月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2014/05'> 2014年5月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2014/04'> 2014年4月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2014/03'> 2014年3月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2014/02'> 2014年2月 &nbsp;(5)</option>
+	<option value='https://yanajun.com/article/2014/01'> 2014年1月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2013/12'> 2013年12月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2013/11'> 2013年11月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2013/10'> 2013年10月 &nbsp;(21)</option>
+	<option value='https://yanajun.com/article/2013/09'> 2013年9月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2013/08'> 2013年8月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2013/07'> 2013年7月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2013/06'> 2013年6月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2013/05'> 2013年5月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2013/04'> 2013年4月 &nbsp;(23)</option>
+	<option value='https://yanajun.com/article/2013/03'> 2013年3月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2013/02'> 2013年2月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2013/01'> 2013年1月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2012/12'> 2012年12月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2012/11'> 2012年11月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2012/10'> 2012年10月 &nbsp;(20)</option>
+	<option value='https://yanajun.com/article/2012/09'> 2012年9月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2012/08'> 2012年8月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2012/07'> 2012年7月 &nbsp;(11)</option>
+	<option value='https://yanajun.com/article/2012/06'> 2012年6月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2012/05'> 2012年5月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2012/04'> 2012年4月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2012/03'> 2012年3月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2012/02'> 2012年2月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2012/01'> 2012年1月 &nbsp;(20)</option>
+	<option value='https://yanajun.com/article/2011/12'> 2011年12月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2011/11'> 2011年11月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2011/10'> 2011年10月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2011/09'> 2011年9月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2011/08'> 2011年8月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2011/07'> 2011年7月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2011/06'> 2011年6月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2011/05'> 2011年5月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2011/04'> 2011年4月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2011/03'> 2011年3月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2011/02'> 2011年2月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2011/01'> 2011年1月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2010/12'> 2010年12月 &nbsp;(20)</option>
+	<option value='https://yanajun.com/article/2010/11'> 2010年11月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2010/10'> 2010年10月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2010/09'> 2010年9月 &nbsp;(19)</option>
+	<option value='https://yanajun.com/article/2010/08'> 2010年8月 &nbsp;(12)</option>
+	<option value='https://yanajun.com/article/2010/07'> 2010年7月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2010/06'> 2010年6月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2010/05'> 2010年5月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2010/04'> 2010年4月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2010/03'> 2010年3月 &nbsp;(20)</option>
+	<option value='https://yanajun.com/article/2010/02'> 2010年2月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2010/01'> 2010年1月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2009/12'> 2009年12月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2009/11'> 2009年11月 &nbsp;(19)</option>
+	<option value='https://yanajun.com/article/2009/10'> 2009年10月 &nbsp;(25)</option>
+	<option value='https://yanajun.com/article/2009/09'> 2009年9月 &nbsp;(26)</option>
+	<option value='https://yanajun.com/article/2009/08'> 2009年8月 &nbsp;(19)</option>
+	<option value='https://yanajun.com/article/2009/07'> 2009年7月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2009/06'> 2009年6月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2009/05'> 2009年5月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2009/04'> 2009年4月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2009/03'> 2009年3月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2009/02'> 2009年2月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2009/01'> 2009年1月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2008/12'> 2008年12月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2008/11'> 2008年11月 &nbsp;(14)</option>
+	<option value='https://yanajun.com/article/2008/10'> 2008年10月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2008/09'> 2008年9月 &nbsp;(22)</option>
+	<option value='https://yanajun.com/article/2008/08'> 2008年8月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2008/07'> 2008年7月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2008/06'> 2008年6月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2008/05'> 2008年5月 &nbsp;(17)</option>
+	<option value='https://yanajun.com/article/2008/04'> 2008年4月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2008/03'> 2008年3月 &nbsp;(19)</option>
+	<option value='https://yanajun.com/article/2008/02'> 2008年2月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2008/01'> 2008年1月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2007/12'> 2007年12月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2007/11'> 2007年11月 &nbsp;(19)</option>
+	<option value='https://yanajun.com/article/2007/10'> 2007年10月 &nbsp;(21)</option>
+	<option value='https://yanajun.com/article/2007/09'> 2007年9月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2007/08'> 2007年8月 &nbsp;(18)</option>
+	<option value='https://yanajun.com/article/2007/07'> 2007年7月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2007/06'> 2007年6月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2007/05'> 2007年5月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2007/04'> 2007年4月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2007/03'> 2007年3月 &nbsp;(16)</option>
+	<option value='https://yanajun.com/article/2007/02'> 2007年2月 &nbsp;(15)</option>
+	<option value='https://yanajun.com/article/2007/01'> 2007年1月 &nbsp;(13)</option>
+	<option value='https://yanajun.com/article/2006/12'> 2006年12月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2006/11'> 2006年11月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2006/10'> 2006年10月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2006/09'> 2006年9月 &nbsp;(10)</option>
+	<option value='https://yanajun.com/article/2006/08'> 2006年8月 &nbsp;(9)</option>
+	<option value='https://yanajun.com/article/2006/07'> 2006年7月 &nbsp;(7)</option>
+	<option value='https://yanajun.com/article/2006/06'> 2006年6月 &nbsp;(8)</option>
+	<option value='https://yanajun.com/article/2006/05'> 2006年5月 &nbsp;(6)</option>
+
+		</select>
+		</aside>             </div>
+          </div>
+        
+        
+        <div class="footer-bottom fdt-up-and-down cf">
+  <div class="footer-bottom-logo">
+    <div class="logo logo-footer logo-text"><a href="https://yanajun.com" class="site-name site-name-text-link" itemprop="url"><span class="site-name-text" itemprop="name about">yanajun</span></a></div>  </div>
+
+  <div class="footer-bottom-content">
+     <nav id="navi-footer" class="navi-footer">
+  <div id="navi-footer-in" class="navi-footer-in">
+      </div>
+</nav>
+    <div class="source-org copyright">© 2006-2018 yanajun.</div>
+  </div>
+
+</div>
+      </div>
+
+    </footer>
+
+  </div>
+
+  <div id="go-to-top" class="go-to-top">
+      <a class="go-to-top-button go-to-top-common go-to-top-hide go-to-top-button-icon-font"><span class="fa fa-angle-double-up"></span></a>
+  </div>
+
+  
+  
+<div class="mobile-menu-buttons">
+      <!-- メニューボタン -->
+    <div class="navi-menu-button menu-button">
+      <input id="navi-menu-input" type="checkbox" class="display-none">
+      <label id="navi-menu-open" class="menu-open" for="navi-menu-input">
+        <span class="navi-menu-icon menu-icon"></span>
+        <span class="navi-menu-caption menu-caption">メニュー</span>
+      </label>
+      <label class="display-none" id="navi-menu-close" for="navi-menu-input"></label>
+      <div id="navi-menu-content" class="navi-menu-content menu-content">
+        <label class="navi-menu-close-button menu-close-button" for="navi-menu-input"></label>
+        <ul class="menu-drawer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17744"><a href="https://yanajun.com/category/tv">TVドラマ</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17743"><a href="https://yanajun.com/category/movie">映画</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17742"><a href="https://yanajun.com/category/zakki">雑記</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17741"><a href="https://yanajun.com/category/works">仕事関連</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17724"><a href="https://yanajun.com/celebrity">似顔絵</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17725"><a href="https://yanajun.com/celebrity/ai">あ行（あ、い）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17726"><a href="https://yanajun.com/celebrity/ueo">あ行（う、え、お）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17727"><a href="https://yanajun.com/celebrity/kaki">か行（か、き）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17728"><a href="https://yanajun.com/celebrity/kukeko">か行（く、け、こ）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17729"><a href="https://yanajun.com/celebrity/sashisuseso">さ行</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17730"><a href="https://yanajun.com/celebrity/ta">た行（た）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17731"><a href="https://yanajun.com/celebrity/chitsuteto">た行（ち、つ、て、と）</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17732"><a href="https://yanajun.com/celebrity/naninuneno">な行</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17733"><a href="https://yanajun.com/celebrity/hahifuheho">は行</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17734"><a href="https://yanajun.com/celebrity/mamimumemo">ま行</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17735"><a href="https://yanajun.com/celebrity/yayuyo">や行</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17736"><a href="https://yanajun.com/celebrity/rarirurerowa">ら行・わ行</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17721"><a href="https://yanajun.com/iroiro">色々な絵</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17722"><a href="https://yanajun.com/iroiro/iroiro1">色々な絵1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17723"><a href="https://yanajun.com/iroiro/iroiro2">色々な絵2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17738"><a href="https://yanajun.com/manga">マンガ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17720"><a href="https://yanajun.com/about">About</a></li>
+</ul>        <!-- <label class="navi-menu-close-button menu-close-button" for="navi-menu-input"></label> -->
+      </div>
+    </div>
+  
+
+  <!-- ホームボタン -->
+  <div class="home-menu-button menu-button">
+    <a href="https://yanajun.com">
+      <div class="home-menu-icon menu-icon"></div>
+      <div class="home-menu-caption menu-caption">ホーム</div>
+    </a>
+  </div>
+
+  <!-- 検索ボタン -->
+      <!-- 検索ボタン -->
+    <div class="search-menu-button menu-button">
+      <input id="search-menu-input" type="checkbox" class="display-none">
+      <label id="search-menu-open" class="menu-open" for="search-menu-input">
+        <span class="search-menu-icon menu-icon"></span>
+        <span class="search-menu-caption menu-caption">検索</span>
+      </label>
+      <label class="display-none" id="search-menu-close" for="search-menu-input"></label>
+      <div id="search-menu-content" class="search-menu-content">
+        <form class="search-box" method="get" action="https://yanajun.com/">
+  <input type="text" placeholder="サイト内を検索" name="s" class="search-edit">
+  <button type="submit" class="search-submit"></button>
+</form>      </div>
+    </div>
+  
+
+    <!-- トップボタン -->
+  <div class="top-menu-button menu-button">
+    <a class="go-to-top-common top-menu-a">
+      <div class="top-menu-icon menu-icon"></div>
+      <div class="top-menu-caption menu-caption">トップ</div>
+    </a>
+  </div>
+
+    <!-- サイドバーボタン -->
+    <div class="sidebar-menu-button menu-button">
+      <input id="sidebar-menu-input" type="checkbox" class="display-none">
+      <label id="sidebar-menu-open" class="menu-open" for="sidebar-menu-input">
+        <span class="sidebar-menu-icon menu-icon"></span>
+        <span class="sidebar-menu-caption menu-caption">サイドバー</span>
+      </label>
+      <label class="display-none" id="sidebar-menu-close" for="sidebar-menu-input"></label>
+      <div id="sidebar-menu-content" class="sidebar-menu-content menu-content">
+        <label class="sidebar-menu-close-button menu-close-button" for="sidebar-menu-input"></label>
+        <div class="sidebar nwa cf" role="complementary">
+
+  
+	<aside class="widget widget-sidebar widget-sidebar-standard widget_search"><form class="search-box" method="get" action="https://yanajun.com/">
+  <input type="text" placeholder="サイト内を検索" name="s" class="search-edit">
+  <button type="submit" class="search-submit"></button>
+</form></aside><aside class="widget widget-sidebar widget-sidebar-standard recent-posts-widget-with-thumbnails"><div class="rpwwt-widget">
+	<h3 class="widget-sidebar-title widget-title">最近の記事画像</h3>	<ul>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-sato.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/satohtakeru13-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="satohtakeru13" srcset="https://yanajun.com/wp-content/uploads/satohtakeru13-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/satohtakeru13-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/satohtakeru13-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/satohtakeru13.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-itoatsushi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/itoatsushi09-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="itoatsushi09" srcset="https://yanajun.com/wp-content/uploads/itoatsushi09-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/itoatsushi09-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/itoatsushi09-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/itoatsushi09.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/3dkanojo-nakajo.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nakajoayami-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nakajoayami" srcset="https://yanajun.com/wp-content/uploads/nakajoayami-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nakajoayami-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/nakajoayami-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/nakajoayami.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/p-battle.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/p-yanajun-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yanajun" srcset="https://yanajun.com/wp-content/uploads/p-yanajun-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/p-yanajun-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/p-yanajun-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/p-yanajun-320x320.jpg 320w, https://yanajun.com/wp-content/uploads/p-yanajun-414x414.jpg 414w, https://yanajun.com/wp-content/uploads/p-yanajun.jpg 512w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/antman_wasp-evangelinelilly.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/evangelinelilly-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="evangelinelilly" srcset="https://yanajun.com/wp-content/uploads/evangelinelilly-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/evangelinelilly-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/evangelinelilly-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/evangelinelilly.jpg 385w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gintama2-yagira.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/yagira02-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yagira02" srcset="https://yanajun.com/wp-content/uploads/yagira02-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/yagira02-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-takenouchi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takenouchi06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takenouchi06" srcset="https://yanajun.com/wp-content/uploads/takenouchi06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takenouchi06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/takenouchi06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/takenouchi06.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-hirata.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hiratamitsuru-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hiratamitsuru" srcset="https://yanajun.com/wp-content/uploads/hiratamitsuru-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hiratamitsuru-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hiratamitsuru-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hiratamitsuru.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/delelife-suda.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/sudamasaki03-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="sudamasaki03" srcset="https://yanajun.com/wp-content/uploads/sudamasaki03-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/sudamasaki03-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/sudamasaki03-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/sudamasaki03.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/bleach-movie-fukushi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/fukushisota04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="fukushisota04" srcset="https://yanajun.com/wp-content/uploads/fukushisota04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/fukushisota04-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/tanteigahayasugiru-takitoh.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takitoh03-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takitoh03" srcset="https://yanajun.com/wp-content/uploads/takitoh03-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takitoh03-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/jurassicworld-brycedhoward.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/brycedhoward-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="brycedhoward" srcset="https://yanajun.com/wp-content/uploads/brycedhoward-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/brycedhoward-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/brycedhoward-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/brycedhoward.jpg 400w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gooddoctor-yamazaki.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/yamazakikento04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="yamazakikento04" srcset="https://yanajun.com/wp-content/uploads/yamazakikento04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/yamazakikento04-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/yamazakikento04-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/yamazakikento04.jpg 390w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/gibomusu_blues-ayase.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/ayase16-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="ayase16" srcset="https://yanajun.com/wp-content/uploads/ayase16-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/ayase16-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/ayase16-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/ayase16.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/zettaireido-sawamura.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/sawamura06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="sawamura06" srcset="https://yanajun.com/wp-content/uploads/sawamura06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/sawamura06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/sawamura06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/sawamura06.jpg 395w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/starwars-hansolo-aldenehrenreich.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/aldenehrenreich-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="aldenehrenreich" srcset="https://yanajun.com/wp-content/uploads/aldenehrenreich-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/aldenehrenreich-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/aldenehrenreich-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/aldenehrenreich.jpg 380w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/fifa2018-hasebe.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hasebe02-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hasebe02" srcset="https://yanajun.com/wp-content/uploads/hasebe02-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hasebe02-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hasebe02-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hasebe02.jpg 415w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/hanahare-hirano.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/hiranosho-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="hiranosho" srcset="https://yanajun.com/wp-content/uploads/hiranosho-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/hiranosho-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/hiranosho-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/hiranosho.jpg 365w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/blackpean-uchino.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/uchino08-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="uchino08" srcset="https://yanajun.com/wp-content/uploads/uchino08-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/uchino08-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/uchino08-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/uchino08.jpg 355w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/blackpean-takeuchi_koizumi.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/takeuchiryoma04-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="takeuchiryoma04" srcset="https://yanajun.com/wp-content/uploads/takeuchiryoma04-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/takeuchiryoma04-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/takeuchiryoma04-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/takeuchiryoma04.jpg 355w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/soratobu-movie-nagase.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nagase08-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nagase08" srcset="https://yanajun.com/wp-content/uploads/nagase08-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nagase08-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/signal-kitamura.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/kitamura06-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="kitamura06" srcset="https://yanajun.com/wp-content/uploads/kitamura06-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/kitamura06-150x150.jpg 150w, https://yanajun.com/wp-content/uploads/kitamura06-300x300.jpg 300w, https://yanajun.com/wp-content/uploads/kitamura06.jpg 365w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/confidenceman_jp-nagasawa.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/nagasawa10-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="nagasawa10" srcset="https://yanajun.com/wp-content/uploads/nagasawa10-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/nagasawa10-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+			<li><a href="https://yanajun.com/article/rainy-season-2018.html"><img width="75" height="75" src="https://yanajun.com/wp-content/uploads/iroiro2-man09-100x100.jpg" class="attachment-75x75 size-75x75 wp-post-image" alt="man09" srcset="https://yanajun.com/wp-content/uploads/iroiro2-man09-100x100.jpg 100w, https://yanajun.com/wp-content/uploads/iroiro2-man09-150x150.jpg 150w" sizes="(max-width: 75px) 100vw, 75px" /></a></li>
+		</ul>
+</div><!-- .rpwwt-widget -->
+</aside><aside class="widget widget-sidebar widget-sidebar-standard widget_text">			<div class="textwidget"><div class="wgs"><img class="alignnone" src="https://yanajun.com/wp-content/uploads/maki_s.gif" alt="maki_s.gif" width="187" height="187" /></div>
+<p><span style="color: #ff0000;">当サイト内のイラスト画像を許可なく使用・複製・転載することを禁じます。</span><br />
+&gt;&gt;<a href="https://yanajun.com/warning">詳細ページ</a></p>
+<p>お仕事のご依頼・ご相談などは、Eメールでお問い合わせください。<br />
+&gt;&gt;メールアドレス<img src="https://yanajun.com/wp-content/uploads/mail1.png" alt="mail" width="179" height="21" /></p>
+<p>迷惑メールフィルターによりこちらからの返信メールが届かない場合があります。上記アドレスからのメール受信ができるよう設定をお願いいたします。</p>
+<p>お値段はイラスト等の種類やサイズによって異なります。ご相談時にご依頼の内容を具体的に提示して下さい。<br />
+&gt;&gt;<a href="https://yanajun.com/article/110528191.html">絵の制作の料金例</a></p>
+</div>
+		</aside><aside class="widget widget-sidebar widget-sidebar-standard widget_text"><h3 class="widget-sidebar-title widget-title">商品検索</h3>			<div class="textwidget"><div class="wgs"><a style="word-wrap: break-word;" href="https://hb.afl.rakuten.co.jp/hsc/0b803246.6c277d1b.15f1b6d1.17927c3a/?link_type=pict&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIxIiwiYmFuIjoiNDM0OTM3In0%3D" target="_blank" rel="nofollow noopener"><img style="margin: 2px;" title="" src="https://hbb.afl.rakuten.co.jp/hsb/0b803246.6c277d1b.15f1b6d1.17927c3a/?me_id=1&amp;me_adv_id=434937&amp;t=pict" alt="" width="234" height="60" /></a></div>
+</div>
+		</aside>
+  
+  
+</div>
+        <!-- <label class="sidebar-menu-close-button menu-close-button" for="sidebar-menu-input"></label> -->
+      </div>
+    </div>
+  </div>
+
+
+
+  <script src='https://yanajun.com/wp-content/themes/cocoon-master/plugins/slick/slick.min.js?ver=4.9.8&#038;fver=20180907104016'></script>
+<script>
+(function($){$(".carousel-content").slick({dots:!0,autoplaySpeed:5000,infinite:!0,slidesToShow:6,slidesToScroll:6,responsive:[{breakpoint:1240,settings:{slidesToShow:5,slidesToScroll:5}},{breakpoint:1023,settings:{slidesToShow:4,slidesToScroll:4}},{breakpoint:768,settings:{slidesToShow:3,slidesToScroll:3}},{breakpoint:480,settings:{slidesToShow:2,slidesToScroll:2}}]})})(jQuery);
+</script>
+<script src='https://yanajun.com/wp-content/themes/cocoon-master/javascript.js?ver=4.9.8&#038;fver=20180907104016'></script>
+<script src='https://yanajun.com/wp-content/themes/cocoon-child-master/javascript.js?ver=4.9.8&#038;fver=20180511065926'></script>
+
+      
+
+  
+  
+  
+</body>
+
+</html>

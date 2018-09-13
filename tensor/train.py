@@ -5,7 +5,18 @@ import cv2
 import numpy as np
 import tensorflow as tf
 import tensorflow.python.platform
+import os
+import configparser
 
+
+# 外部のコンフィグを読み込む
+inifile = configparser.ConfigParser()
+inifile.read('config.ini')
+
+# 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
+in_dir = inifile.get('extraction', 'in')
+names = os.listdir(in_dir)
+#print(names)
 NUM_CLASSES = 3
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
@@ -127,15 +138,17 @@ if __name__ == '__main__':
         for line in f:
             line = line.rstrip()
             l = line.split()
-            img = cv2.imread(l[0])
+            img = cv2.imread(in_dir+l[0])
             img = cv2.resize(img, (IMAGE_SIZE, IMAGE_SIZE))
-            cv2.imwrite('half.jpg', img)
             train_image.append(img.flatten().astype(np.float32)/255.0)
             tmp = np.zeros(NUM_CLASSES)
             tmp[int(l[1])] = 1
             train_label.append(tmp)
+            print('========')
+            print(train_label)
         train_image = np.asarray(train_image)
         train_label = np.asarray(train_label)
+
         train_len = len(train_image)
 
     with open(FLAGS.test, 'r') as f: # test.txt
@@ -144,8 +157,7 @@ if __name__ == '__main__':
         for line in f:
             line = line.rstrip()
             l = line.split()
-            print(l)
-            img = cv2.imread(l[0])
+            img = cv2.imread(in_dir + l[0])
             img = cv2.resize(img, (IMAGE_SIZE, IMAGE_SIZE))
             test_image.append(img.flatten().astype(np.float32)/255.0)
             tmp = np.zeros(NUM_CLASSES)
