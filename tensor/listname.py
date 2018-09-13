@@ -22,16 +22,14 @@ inifile.read('config.ini')
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
-for name in names:
-    dire = "." in name  
-    if "." in name:
-        print(dire)
-    else:
-        print("1")
+i=0
+for name in names: 
+    if not "." in name:
         in_dir_characters=os.listdir(in_dir+'/'+name+'/')
         for in_dir_character in in_dir_characters:
             if not "DS_Store" in in_dir_character:
                 f = open('train.txt','a')
-                f.write('\n'+name+'/'+in_dir_character+' 1')       
-                f.close()
-       
+                f.write('\n'+name+'/'+in_dir_character+' '+ str(i))       
+                f.close()  
+        i +=1
+i=0

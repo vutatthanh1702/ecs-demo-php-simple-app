@@ -14,7 +14,7 @@ inifile = configparser.ConfigParser()
 inifile.read('config.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
-in_dir = inifile.get('extraction', 'in')
+in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
 #print(names)
 NUM_CLASSES = 3
@@ -27,8 +27,8 @@ flags.DEFINE_string('save_model', 'models/model.ckpt', 'File name of model data'
 flags.DEFINE_string('train', 'training/train.txt', 'File name of train data')
 flags.DEFINE_string('test', 'training/test.txt', 'File name of test data')
 flags.DEFINE_string('train_dir', '/tmp/pict_data', 'Directory to put the training data.')
-flags.DEFINE_integer('max_steps', 3, 'Number of steps to run trainer.')
-flags.DEFINE_integer('batch_size', 3, 'Batch size'
+flags.DEFINE_integer('max_steps', 100, 'Number of steps to run trainer.')
+flags.DEFINE_integer('batch_size', 25, 'Batch size'
                      'Must divide evenly into the dataset sizes.')
 flags.DEFINE_float('learning_rate', 1e-4, 'Initial learning rate.')
 
@@ -144,8 +144,6 @@ if __name__ == '__main__':
             tmp = np.zeros(NUM_CLASSES)
             tmp[int(l[1])] = 1
             train_label.append(tmp)
-            print('========')
-            print(train_label)
         train_image = np.asarray(train_image)
         train_label = np.asarray(train_label)
 
