@@ -6,7 +6,7 @@ import tensorflow.python.platform
 from types import *
 
 NUM_CLASSES = 4
-IMAGE_SIZE = 28
+IMAGE_SIZE = 80
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
 flags = tf.app.flags
@@ -48,14 +48,14 @@ def inference(images_placeholder, keep_prob):
         h_pool2 = max_pool_2x2(h_conv2)
 
     with tf.name_scope('fc1') as scope:
-        W_fc1 = weight_variable([7*7*64, 1024])
-        b_fc1 = bias_variable([1024])
-        h_pool2_flat = tf.reshape(h_pool2, [-1, 7*7*64])
+        W_fc1 = weight_variable([int(IMAGE_SIZE/4)*int(IMAGE_SIZE/4)*64, 256])
+        b_fc1 = bias_variable([256])
+        h_pool2_flat = tf.reshape(h_pool2, [-1, int(IMAGE_SIZE/4)*int(IMAGE_SIZE/4)*64])
         h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
         h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
 
     with tf.name_scope('fc2') as scope:
-        W_fc2 = weight_variable([1024, NUM_CLASSES])
+        W_fc2 = weight_variable([256, NUM_CLASSES])
         b_fc2 = bias_variable([NUM_CLASSES])
 
     with tf.name_scope('softmax') as scope:
