@@ -5,7 +5,7 @@ from random import randint
 
 # 外部のコンフィグを読み込む
 inifile = configparser.ConfigParser()
-inifile.read('config1.ini')
+inifile.read('config.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'in')
@@ -40,6 +40,6 @@ for name in names:
         height = rect[3]
         height=height+int(round(height*z/100))
         dst = image_gs[y:y + height, x:x + width]
-        save_path = out_dir + '/'+'busaiku_' + str(index) + '' + str(index) + str(randint(100, 999))+ str(randint(100, 999))+'.jpg'
+        save_path = out_dir + '/'+'Mackenyu_' + str(index) + '' + str(index) + str(randint(100, 999))+ str(randint(100, 999))+'.jpg'
         cv2.imwrite(save_path, dst)
         index = index + 1

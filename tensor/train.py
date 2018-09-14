@@ -17,7 +17,7 @@ inifile.read('config.ini')
 in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
 #print(names)
-NUM_CLASSES = 4
+NUM_CLASSES = 5
 IMAGE_SIZE = 80
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 

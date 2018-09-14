@@ -18,12 +18,12 @@ import configparser
 
 # 外部のコンフィグを読み込む
 inifile = configparser.ConfigParser()
-inifile.read('config1.ini')
+inifile.read('config.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'in')
-API_KEY = "AIzaSyDld2xaZq5TU-lQfa9kdHe56pQLBzYPwD"
-CUSTOM_SEARCH_ENGINE = "013298172916019339195:rsn0kkkniy"
+API_KEY = "AIzaSyDld2xaZq5TU-lQfa9kdHe56pQLBzYPwD8"
+CUSTOM_SEARCH_ENGINE = "013298172916019339195:rsn0kkkniyc"
 NUM_IMAGE=100
 
 def getImageUrl(search_item, total_num):
@@ -51,7 +51,7 @@ def getImage(search_item, img_list):
 			print("failed to download images.")
 		continue
 if __name__ == "__main__":
-	img_list = getImageUrl("ブサイク男性", NUM_IMAGE)
+	img_list = getImageUrl("CharliePuth", NUM_IMAGE)
 	print(img_list)
-	getImage("busaiku", img_list)
+	getImage("CharliePuth", img_list)
 

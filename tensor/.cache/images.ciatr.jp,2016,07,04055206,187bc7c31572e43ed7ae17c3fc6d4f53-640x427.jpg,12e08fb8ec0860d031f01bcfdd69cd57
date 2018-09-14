@@ -1,0 +1,20 @@
+status: 301
+server: CloudFront
+date: Fri, 14 Sep 2018 05:18:30 GMT
+content-type: text/html
+content-length: 183
+connection: keep-alive
+location: https://images.ciatr.jp/2016/07/04055206/187bc7c31572e43ed7ae17c3fc6d4f53-640x427.jpg
+x-cache: Redirect from cloudfront
+via: 1.1 ee97f619941dc7d0d5e66778b86be33f.cloudfront.net (CloudFront)
+x-amz-cf-id: UM4uQoAOGbKVWF1kGbBLhC5JpFCXkmepe3-uOAEOUQJil5K4poMueg==
+-x-permanent-redirect-url: https://images.ciatr.jp/2016/07/04055206/187bc7c31572e43ed7ae17c3fc6d4f53-640x427.jpg
+content-location: http://images.ciatr.jp/2016/07/04055206/187bc7c31572e43ed7ae17c3fc6d4f53-640x427.jpg
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

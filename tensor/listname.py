@@ -17,19 +17,24 @@ import configparser
 
 # 外部のコンフィグを読み込む
 inifile = configparser.ConfigParser()
-inifile.read('config1.ini')
+inifile.read('config.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
 i=0
+y=0
 for name in names: 
     if not "." in name:
+        f1 = open('trainlabel.txt','a')
+        f1.write(name+' '+ str(y)+'\n')       
+        f1.close()
         in_dir_characters=os.listdir(in_dir+'/'+name+'/')
         for in_dir_character in in_dir_characters:
             if not "DS_Store" in in_dir_character:
                 f = open('train.txt','a')
-                f.write('\n'+name+'/'+in_dir_character+' '+ str(i))       
+                f.write(name+'/'+in_dir_character+' '+ str(i)+'\n')       
                 f.close()  
         i +=1
+        y +=1
 i=0
