@@ -11,14 +11,14 @@ import configparser
 
 # 外部のコンフィグを読み込む
 inifile = configparser.ConfigParser()
-inifile.read('config.ini')
+inifile.read('config1.ini')
 
 # 入力画像ディレクトリのパス。最後はスラッシュで終わる必要あり。
 in_dir = inifile.get('extraction', 'out')
 names = os.listdir(in_dir)
 #print(names)
 NUM_CLASSES = 5
-IMAGE_SIZE = 80
+IMAGE_SIZE = 100
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
 flags = tf.app.flags
@@ -28,7 +28,7 @@ flags.DEFINE_string('train', 'training/train.txt', 'File name of train data')
 flags.DEFINE_string('test', 'training/test.txt', 'File name of test data')
 flags.DEFINE_string('train_dir', '/tmp/pict_data', 'Directory to put the training data.')
 flags.DEFINE_integer('max_steps', 100, 'Number of steps to run trainer.')
-flags.DEFINE_integer('batch_size', 25, 'Batch size'
+flags.DEFINE_integer('batch_size', 75, 'Batch size'
                      'Must divide evenly into the dataset sizes.')
 flags.DEFINE_float('learning_rate', 1e-4, 'Initial learning rate.')
 
@@ -76,15 +76,15 @@ def inference(images_placeholder, keep_prob):
         h_pool2 = max_pool_2x2(h_conv2) # -> 10*10*32*64
     # 全結合層1の作成
     with tf.name_scope('fc1') as scope:
-        W_fc1 = weight_variable([int(IMAGE_SIZE/4)*int(IMAGE_SIZE/4)*64, 256])
-        b_fc1 = bias_variable([256])
+        W_fc1 = weight_variable([int(IMAGE_SIZE/4)*int(IMAGE_SIZE/4)*64, 512])
+        b_fc1 = bias_variable([512])
         h_pool2_flat = tf.reshape(h_pool2, [-1, int(IMAGE_SIZE/4)*int(IMAGE_SIZE/4)*64])
         h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
         # dropoutの設定
         h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
     # 全結合層2の作成
     with tf.name_scope('fc2') as scope:
-        W_fc2 = weight_variable([256, NUM_CLASSES])
+        W_fc2 = weight_variable([512, NUM_CLASSES])
         b_fc2 = bias_variable([NUM_CLASSES])
     # ソフトマックス関数による正規化
     with tf.name_scope('softmax') as scope:

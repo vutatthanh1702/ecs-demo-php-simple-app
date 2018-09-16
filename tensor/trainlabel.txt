@@ -1,5 +1,5 @@
-nakamru 0
-Mackenyu 1
-yamaki 2
-kamiki 3
-busaiku 4
+busaiku 0
+kamiki 1
+Mackenyu 2
+nakamru 3
+yamaki 4
