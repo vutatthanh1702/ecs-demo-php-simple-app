@@ -1,6 +1,7 @@
 FROM amazonlinux:1
 RUN yum -y update
-RUN yum install -y httpd \
+RUN yum install -y httpd24 \
+        php70 \
         zlib-devel \
         bzip2 \
         bzip2-devel \
