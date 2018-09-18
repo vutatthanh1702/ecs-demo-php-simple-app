@@ -32,6 +32,7 @@ RUN conda create -n tensorflow pip python=3.6
 RUN source activate tensorflow
 RUN git clone https://github.com/tensorflow/tensorflow.git ~/tensorflow/
 RUN pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.10.1-cp36-cp36m-linux_x86_64.whl
+RUN pip install opencv-python
 RUN echo '#!/bin/bash' >> ~/jupyter_tsb.sh
 RUN echo 'python ~/tensorflow/tensorflow/examples/tutorials/mnist/mnist_with_summaries.py' >> ~/jupyter_tsb.sh
 RUN echo '(nohup jupyter notebook --port 8888 --allow-root --no-browser --ip=* --NotebookApp.token="Lissandra-1"; tensorboard --logdir=/tmp/ --port 7777) > ~/nohup.out 2>&1' >> ~/jupyter_tsb.sh
