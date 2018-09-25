@@ -30,13 +30,13 @@ RUN mkdir ~/tensorflow
 RUN cd ~/tensorflow/
 RUN pip install --upgrade pip
 RUN conda create -n tensorflow pip python=3.6
-ENV PYTHONHOME $PYENV_ROOT/versions/anaconda3-5.1.0/bin/:$PATH
-ENV PYTHONPATH $PYENV_ROOT/versions/anaconda3-5.1.0/bin/:$PYENV_ROOT/versions/anaconda3-5.1.0/lib/python3.6/site-packages
 RUN source activate tensorflow
 RUN git clone https://github.com/tensorflow/tensorflow.git ~/tensorflow/
 RUN pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.10.1-cp36-cp36m-linux_x86_64.whl
 RUN conda install -c https://conda.anaconda.org/menpo opencv3
 RUN yum install -y libXext libSM libXrender
+ENV PYTHONHOME $PYENV_ROOT/versions/anaconda3-5.1.0/bin/:$PATH
+ENV PYTHONPATH $PYENV_ROOT/versions/anaconda3-5.1.0/bin/:$PYENV_ROOT/versions/anaconda3-5.1.0/lib/python3.6/site-packages
 RUN pip install --ignore-installed mod_wsgi
 RUN echo '#!/bin/bash' >> ~/jupyter_tsb.sh
 RUN echo 'python ~/tensorflow/tensorflow/examples/tutorials/mnist/mnist_with_summaries.py' >> ~/jupyter_tsb.sh
